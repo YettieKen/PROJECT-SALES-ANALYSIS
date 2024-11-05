@@ -1,5 +1,14 @@
 # PROJECT TITLE: PROJECT SALES ANALYSIS
 
+[PROJECT OVERVIEW](#project-overview)
+[DATA SOURCES](#data-sources)
+[TOOLS USED](#tools-used)
+[DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+[DATA ANALYSIS](#data-analysis)
+[DATA VISUALIZATION](#data-visualization)
+[RECOMMENDATION](#recommendation)
+
 ### PROJECT OVERVIEW
 ---
 This project aims at analyzing the sales performance of a retail store over a certain period of time. This will be achieved by analysing the sales data to uncover key insights such as top-selling products, regional performances, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings from the data.
@@ -115,3 +124,9 @@ WHERE OrderId= OrderId and Orderdate>= DateAdd(quarter,-1,GetDate()));
 ![Screenshot (18)](https://github.com/user-attachments/assets/2b882f0a-dd19-489b-8830-8f6c8a2e74eb)
 ![Screenshot (15)](https://github.com/user-attachments/assets/0b3c7cdd-25d7-485e-b039-1954ccf0c8cb)
 ![Screenshot (13)](https://github.com/user-attachments/assets/f02ba4c0-1555-4ddc-a336-bcb610313201)
+
+### RECOMMENDATION
+From this Sales overview,
+💻
+
+💻
