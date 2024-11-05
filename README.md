@@ -114,3 +114,4 @@ WHERE OrderId= OrderId and Orderdate>= DateAdd(quarter,-1,GetDate()));
 ![Screenshot (19)](https://github.com/user-attachments/assets/473226ea-0bdc-46da-be04-e9d23240a9dc)
 ![Screenshot (18)](https://github.com/user-attachments/assets/2b882f0a-dd19-489b-8830-8f6c8a2e74eb)
 ![Screenshot (15)](https://github.com/user-attachments/assets/0b3c7cdd-25d7-485e-b039-1954ccf0c8cb)
+![Screenshot (13)](https://github.com/user-attachments/assets/f02ba4c0-1555-4ddc-a336-bcb610313201)
