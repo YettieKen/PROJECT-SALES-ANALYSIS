@@ -132,8 +132,21 @@ WHERE OrderId= OrderId and Orderdate>= DateAdd(quarter,-1,GetDate()));
 ![Screenshot (15)](https://github.com/user-attachments/assets/0b3c7cdd-25d7-485e-b039-1954ccf0c8cb)
 ![Screenshot (13)](https://github.com/user-attachments/assets/f02ba4c0-1555-4ddc-a336-bcb610313201)
 
-### RECOMMENDATION
-From this Sales overview,
+### RECOMMENDATION AND CONCLUSION
+---
+
+From this Sales analysis, 
+
+* It has been seen that South is the region with the highest quantity of items sold with a total sale of #927,820.
+  
+* The highest selling product is Shoes having 29.19% sales record.
+  
+* February recorded the month with the highest selling record.
+
+An Investigation should be carried out to check why other regions had lower sales as compared to the South.
+More resources should be implemented so as to boost more sales performances.
+
+Thank you.
 💻
 
 💻
