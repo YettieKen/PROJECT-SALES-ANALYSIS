@@ -28,8 +28,16 @@ For Data cleaning and Preparations, I performed the following:
   
 * Removed Duplicates
   
-* Added colums to include information needed such as Total Sales and Revenue
+* Added columns to include information needed such as Total Sales and Revenue
   
-###EXPLORATORY DATA ANALYSIS
-###DATA ANALYSIS
-###DATA VISUALIZATION
+### EXPLORATORY DATA ANALYSIS
+This involved exploring the data to answer some questions such as;
+ 
+ a. top-selling products
+ 
+ b. regional performances
+ 
+ c. monthly sales trends
+ 
+### DATA ANALYSIS
+### DATA VISUALIZATION
