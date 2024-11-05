@@ -1,12 +1,15 @@
 # PROJECT TITLE: PROJECT SALES ANALYSIS
 
 ### PROJECT OVERVIEW
+---
 This project aims at analyzing the sales performance of a retail store over a certain period of time. This will be achieved by analysing the sales data to uncover key insights such as top-selling products, regional performances, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings from the data.
 
 ### DATA SOURCES
+---
 The Primary source of Data used is Sales Performance Analysis for a Retail Store downloaded from the Learning Management System of the Ladies in Tech Africa.
 
 ## TOOLS USED
+---
 * Microsoft Excel [Download here](https://www.microsoft.com)
   
   a. cleaning duplicates
@@ -20,6 +23,7 @@ The Primary source of Data used is Sales Performance Analysis for a Retail Store
 * PowerBI- used for creating Visualizations
   
 ### DATA CLEANING AND PREPARATION
+---
 For Data cleaning and Preparations, I performed the following:
 
 * Data download
@@ -31,6 +35,7 @@ For Data cleaning and Preparations, I performed the following:
 * Added columns to include information needed such as Total Sales and Revenue
   
 ### EXPLORATORY DATA ANALYSIS
+---
 This involved exploring the data to answer some questions such as;
  
  a. top-selling products
@@ -40,7 +45,8 @@ This involved exploring the data to answer some questions such as;
  c. monthly sales trends
  
 ### DATA ANALYSIS
-This is where we used sone lines of code or queries;
+---
+This is where we used some lines of code or queries;
 
 ```SQL
 SELECT * FROM[dbo].[SalesProjecttt]
@@ -104,3 +110,4 @@ WHERE OrderId= OrderId and Orderdate>= DateAdd(quarter,-1,GetDate()));
 ```
 
 ### DATA VISUALIZATION
+---
