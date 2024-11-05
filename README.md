@@ -14,7 +14,7 @@
 
 [DATA VISUALIZATION](#data-visualization)
 
-[RECOMMENDATION](#recommendation)
+[RECOMMENDATION AND CONCLUSION](#recommendation)
 
 ### PROJECT OVERVIEW
 ---
