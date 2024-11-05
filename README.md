@@ -1,12 +1,19 @@
 # PROJECT TITLE: PROJECT SALES ANALYSIS
 
 [PROJECT OVERVIEW](#project-overview)
+
 [DATA SOURCES](#data-sources)
+
 [TOOLS USED](#tools-used)
+
 [DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+
 [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
 [DATA ANALYSIS](#data-analysis)
+
 [DATA VISUALIZATION](#data-visualization)
+
 [RECOMMENDATION](#recommendation)
 
 ### PROJECT OVERVIEW
