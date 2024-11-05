@@ -7,10 +7,12 @@ This project aims at analyzing the sales performance of a retail store over a ce
 The Primary source of Data used is Sales Performance Analysis for a Retail Store downloaded from the Learning Management System of the Ladies in Tech Africa.
 
 ## TOOLS USED
-* Microsoft Excel
+* Microsoft Excel [Download here](https://www.microsoft.com)
   
   a. cleaning duplicates
+  
   b. Analysis with the Pivot tables
+  
   c. Visualization
   
 * SQL- Structured Query Language for Querying the Sales Data
@@ -18,7 +20,16 @@ The Primary source of Data used is Sales Performance Analysis for a Retail Store
 * PowerBI- used for creating Visualizations
   
 ### DATA CLEANING AND PREPARATION
+For Data cleaning and Preparations, I performed the following:
 
+* Data download
+  
+* Checked for Duplicates
+  
+* Removed Duplicates
+  
+* Added colums to include information needed such as Total Sales and Revenue
+  
 ###EXPLORATORY DATA ANALYSIS
 ###DATA ANALYSIS
 ###DATA VISUALIZATION
