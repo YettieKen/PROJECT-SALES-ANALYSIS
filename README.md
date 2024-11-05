@@ -8,6 +8,7 @@ The Primary source of Data used is Sales Performance Analysis for a Retail Store
 
 ## TOOLS USED
 * Microsoft Excel
+  
   a. cleaning duplicates
   b. Analysis with the Pivot tables
   c. Visualization
